@@ -1,2 +1,2 @@
-# gennonotes.github.io
+# genotes.github.io
 Genno Notes
