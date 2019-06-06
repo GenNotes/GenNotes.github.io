@@ -1,2 +1,5 @@
 name: Genno Notes
 markdown: kramdown
+
+# Google Analytics
+google_analytics: UA-141619365-1
