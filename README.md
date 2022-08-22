@@ -1,2 +1,2 @@
 # GennoNotes.github.io
-Lakehead University Mechanical Engineering (2016-2020)
+Class Notes (2016-2022)
